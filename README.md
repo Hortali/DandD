@@ -1,13 +1,74 @@
-# Documents and Data 
+# Dand - Documents and Data
 
-Documentação do proejto e os dados públicos que disponibilizamos
+Assets, documentos e dados públicos usados na aplicação do Hortali.
+
+1. [Style Guide](#assets-disponíveis)
+2. [Dados](#assets-disponíveis)
+3. [Assets](#organização-dos-assets)
+4. [Documentos Oficiais](#assets-disponíveis)
+5. [Fundadores](#Fundadores)
+
+
+# Style Guide
+
+Nosso style guide usado no projeto para manter um padrão nos códigos da aplicação. Veja nossa wiki dedicada para o nosso style guide.
+
+
+# Dados
+
+Todos os dados que usamos no Hortali estão dosponíveis:
+
+| **Dado** |   **Descrição**    |
+|-------------|:-----------|
+| Hortas      | Todas as informações das hortas.    |
+| Alimentos   | Todas as informaçòes dos alimentos. |
+
+
+
+# Aseets
+
+Os assets dos alimentos e das hortas são separados em duas categorias. 
+
+| **Categoria** |   **Descrição**    |
+|----------------|:-----------|
+| Cover          | Imagens usadas nas telas inciais, nas células, como um preview.  |
+| Page           | Imagens usadas nas respectivas páginas dos alimentos/hortas.     |
+
+<br/>
+
+## Assets disponíveis
+
+Todos os nossos assets estão disponíveis no nosso [google drive](https://drive.google.com/drive/folders/1YI62tBJVMb9CNqJChzhI4YWpXBJnc4dK?usp=share_link).
+
+<table>
+    <tr>
+        <td><h3 align="center">Tipo</h3></td>
+        <td><h3 align="center">Descrição</h3></td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/drive/folders/1j8MFnF6Gy4meLXLXu_G6JH7VxGYLxJwd?usp=share_link"><p>Alimentos</p></a></td>
+        <td><p>Imagens dos alimentos</p></td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/drive/folders/1765AQzqPtpmRbK2u9AKJjlBrle191x2v?usp=share_link"><p>Hortas</p></a></td>
+        <td><p>Imagens selecionadas das hortas</p></td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/drive/folders/1AgcQ57kc3iaOj0xYstEWlNweWYooTWz3?usp=share_link"><p>Contatos</p></a></td>
+        <td><p>Ícones dos contatos das hortas</p></td>
+    </tr>
+</table>
+
+
+# Documentos Oficiais
 
 ## Política de Privacidade
 
 Nossa política de privacidade se encontra [aqui](https://github.com/Hortali/DandD/blob/main/policyPrivacy.md).
 
 
-## Time
+
+# Fundadores
 <table>
     <tr>
         <td align="center">
